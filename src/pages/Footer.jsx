@@ -55,9 +55,9 @@ const Footer = () => {
       </div>
       <div style={sectionStyle}>
         <h3 style={headingStyle}>Social</h3>
-        <p style={paragraphStyle}><a href="#" style={linkStyle}>Twitter</a></p>
-        <p style={paragraphStyle}><a href="#" style={linkStyle}>Instagram</a></p>
-        <p style={paragraphStyle}><a href="#" style={linkStyle}>LinkedIn</a></p>
+        <p style={paragraphStyle}><a href="/" style={linkStyle}>Twitter</a></p>
+        <p style={paragraphStyle}><a href="/" style={linkStyle}>Instagram</a></p>
+        <p style={paragraphStyle}><a href="/" style={linkStyle}>LinkedIn</a></p>
       </div>
       <div style={copyrightStyle}>
         <p>&copy; 2024 MyEd. All Rights Reserved.</p>
