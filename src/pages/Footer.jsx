@@ -36,8 +36,7 @@ const Footer = () => {
     marginTop: '20px',
     fontSize: '14px',
     textAlign: 'center',
-    width: '100%',  // Ensure copyright spans the full width
-    textAlign: 'center',
+    width: '100%',   
   };
 
   return (
